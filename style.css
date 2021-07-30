@@ -20,9 +20,7 @@ body{
     min-height: 100%;
     border-radius: 10px;
 }
-.img-gallery:hover{
-  opacity: 0.5;
-}
+
 .modal {
     display: none; /* Mac dinh an */
     position: fixed; 
