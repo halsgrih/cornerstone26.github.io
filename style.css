@@ -14,15 +14,18 @@ body{
     flex-basis: 295px;
     flex-grow: 1;
 }
+
 .img-gallery { 
     max-width: 100%;
     max-height: 100%;
     min-height: 100%;
     border-radius: 10px;
 }
-.img-gallery:hover{
+
+img-gallery:hover{
   opacity: 0.5;
 }
+
 .modal {
     display: none; /* Mac dinh an */
     position: fixed; 
